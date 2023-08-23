@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently learning how to Code
 
-- 📫 How to reach me **zhiqiangc67@gmail.com**
+- 📫 How to reach me in the School
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
