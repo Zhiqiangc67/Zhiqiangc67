@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zhi Qiang Chen</h1>
 <h3 align="center">A Student of the Georg Simon Ohm vocational college</h3>
 
-- 🔭 I’m currently working on a Athmosphere Phonk track [Starlight](Releases in 1 Month)
+- 🔭 I’m currently learning how to Code
 
 - 📫 How to reach me **zhiqiangc67@gmail.com**
 
